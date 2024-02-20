@@ -1,4 +1,6 @@
-![BARK Memo Logo](./src/assets/bark-memo-logo.svg)
+<div align="center">
+  <img src="./src/assets/bark-memo-logo.svg" alt="BARK Memo Logo" width="200" height="200">
+</div>
 
 ## Overview
 
