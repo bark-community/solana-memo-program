@@ -1,0 +1,19 @@
+{
+  "name": "bark-memo-program",
+  "version": "1.0.0",
+  "description": "Solana transaction enhancement program leveraging the BARK Memo Program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "tsc",
+    "generate-public-key": "node ./src/scripts/generate-public-key.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["solana", "memo", "enhancement", "transaction"],
+  "author": "BARK",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.90.0",
+    "ts-node": "^10.9.2"
+  }
+}
