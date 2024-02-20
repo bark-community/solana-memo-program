@@ -86,10 +86,10 @@ export default config;
 For demonstration purposes, two example keypairs are included:
 
 1. MemoG4JpyYsxFnatbhmjYJ4FfkQvQarc31QDJt2rKY5
-   - Key pair JSON file: [keypairs/MemoG4JpyYsxFnatbhmjYJ4FfkQvQarc31QDJt2rKY5.json](src/keypairs/MemoG4JpyYsxFnatbhmjYJ4FfkQvQarc31QDJt2rKY5.json)
+   - Keypair JSON file: [keypairs/MemoG4JpyYsxFnatbhmjYJ4FfkQvQarc31QDJt2rKY5.json](src/keypairs/MemoG4JpyYsxFnatbhmjYJ4FfkQvQarc31QDJt2rKY5.json)
 
 2. BARKbsY2XiJZLozPtupcXPK2YhNeNc5LW9K1cyyxwDHt
-   - Key pair JSON file: [keypairs/BARKbsY2XiJZLozPtupcXPK2YhNeNc5LW9K1cyyxwDHt.json](src/keypairs/BARKbsY2XiJZLozPtupcXPK2YhNeNc5LW9K1cyyxwDHt.json)
+   - Keypair JSON file: [keypairs/BARKbsY2XiJZLozPtupcXPK2YhNeNc5LW9K1cyyxwDHt.json](src/keypairs/BARKbsY2XiJZLozPtupcXPK2YhNeNc5LW9K1cyyxwDHt.json)
 
 ## License
 
